@@ -22,7 +22,7 @@ It was a fun and short project.
 
 
 ### Links
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [](https://lusternova.github.io/challenge-qr-code-design/)
 
 ## My process
 
